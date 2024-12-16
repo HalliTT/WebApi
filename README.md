@@ -1,7 +1,7 @@
 
-## Author [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+## Author [@Haraldur](https://github.com/HalliTT) 
 
-- [@Haraldur](https://github.com/HalliTT)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
@@ -82,3 +82,9 @@ OR
 ```bash
   CTRL+F5
 ```
+
+## Features
+
+- [Mapper](https://github.com/HalliTT/WebApi/tree/main/WebApi/Services/Mappers)
+- [Middleware Exception](https://github.com/HalliTT/WebApi/blob/main/WebApi/Middleware/ExceptionMiddleware.cs)
+- [Validation helper](https://github.com/HalliTT/WebApi/blob/main/WebApi/Helpers/ValidationHelper.cs)
